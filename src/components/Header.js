@@ -1,4 +1,5 @@
 import classes from './Header.module.css'
+import { useSelector } from 'react-redux'
 
 const Header = () => {
   return (
